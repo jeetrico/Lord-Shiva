@@ -1,6 +1,7 @@
 # Lord Shiva Drawing with Python Turtle Graphics
 
 This repository contains a Python script that uses the Turtle graphics library to create a detailed drawing of Lord Shiva, a prominent deity in Hinduism. The script showcases Lord Shiva's iconic features, including his distinctive posture, symbols, and elements associated with him.
+![Screenshot 2024-09-10 203256](https://github.com/user-attachments/assets/5a98a5e4-f64c-4037-b6ea-7b9343167132)
 
 ## Prerequisites
 
